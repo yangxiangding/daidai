@@ -4,7 +4,7 @@
 "template_id": "xS9J4z0ufxC_Zvk81kNAyNbgE6dFZevLSLglCqU8F8o",
 "user": ["oVJE26KQ9t4js5KUd_IJwu5-YspE"],
 "weather_key": "HE2212132034181459",
-"region": "宁波市北仑区",
+"region": "宁波",
 "birthday1": {"name": "KiKi", "birthday": "2001-01-20"},
 "love_date": "2020-03-14",
 "note_ch": "",
